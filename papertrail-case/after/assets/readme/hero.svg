@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">PaperTrail — 从论文到可追溯的笔记</title><desc id="desc">概念演示项目。论文、页码引用与 Markdown 笔记组成同一条阅读线索。</desc>
+<rect width="1200" height="420" rx="12" fill="#f3f1e9"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif" fill="#202e28">
+<text x="56" y="55" font-size="20" letter-spacing="3" fill="#426b57">A QUIETER WAY TO READ PAPERS</text>
+<text x="52" y="164" font-family="Georgia,serif" font-size="100">PaperTrail<tspan fill="#426b57">.</tspan></text>
+<text x="57" y="229" font-size="36">从论文，到有出处的笔记。</text>
+<path d="M58 264 H628" stroke="#b9c7b7" stroke-width="2"/>
+<text x="58" y="306" font-size="23" fill="#526359">读懂一篇，留下一条可回看的线索。</text>
+<text x="58" y="371" font-size="19" fill="#526359">CONCEPT DEMO / 概念演示 · 非已上线产品</text>
+<g transform="translate(754 58)">
+<rect x="30" y="0" width="324" height="286" rx="5" fill="#e3e7db" transform="rotate(5 190 150)"/>
+<rect width="330" height="300" rx="5" fill="#fffef9" stroke="#c6ccbe"/>
+<text x="25" y="44" font-size="19" fill="#526359">READING NOTE / 001</text>
+<text x="25" y="99" font-family="Georgia,serif" font-size="31">A claim needs</text>
+<text x="25" y="139" font-family="Georgia,serif" font-size="31">a paper trail.</text>
+<rect x="23" y="166" width="279" height="36" fill="#e0e8cc"/>
+<text x="31" y="192" font-size="21">观点 → 证据 → 页码</text>
+<path d="M26 225 H300 M26 241 H243" stroke="#c6ccbe" stroke-width="2"/>
+<text x="26" y="279" font-size="20" fill="#426b57">[示例论文, p. 3] → note.md</text>
+</g></g></svg>

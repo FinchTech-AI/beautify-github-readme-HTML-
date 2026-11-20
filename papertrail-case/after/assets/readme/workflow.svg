@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">论文 → 笔记 → Markdown</title><desc id="desc">概念流程：导入论文，整理带页码的笔记，导出可编辑 Markdown。完整说明见 README 正文。</desc>
+<rect width="1200" height="260" rx="12" fill="#f3f1e9"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif" fill="#202e28">
+<path d="M145 126 H1054" stroke="#c6ccbe" stroke-width="3"/>
+<g fill="#f3f1e9" stroke="#426b57" stroke-width="2"><circle cx="195" cy="91" r="28"/><circle cx="600" cy="91" r="28"/><circle cx="1000" cy="91" r="28"/></g>
+<g text-anchor="middle" font-size="22" fill="#426b57"><text x="195" y="99">01</text><text x="600" y="99">02</text><text x="1000" y="99">03</text></g>
+<g text-anchor="middle" font-size="42"><text x="195" y="179">论文</text><text x="600" y="179">笔记</text><text x="1000" y="179">Markdown</text></g>
+<g text-anchor="middle" font-size="21" fill="#526359"><text x="195" y="218">导入与阅读</text><text x="600" y="218">观点附上出处</text><text x="1000" y="218">保存与继续编辑</text></g></g></svg>

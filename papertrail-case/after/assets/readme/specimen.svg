@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590" role="img" aria-labelledby="title desc">
+<title id="title">一条笔记，保留观点与出处</title><desc id="desc">手工绘制的概念笔记示意，不是真实产品界面。示例问题：间隔复习如何影响长期记忆？包含摘要、证据位置与待核查问题。</desc>
+<rect width="1200" height="590" rx="12" fill="#f3f1e9"/>
+<g font-family="Segoe UI,Microsoft YaHei,sans-serif" fill="#202e28">
+<text x="55" y="53" font-size="20" letter-spacing="2" fill="#526359">OUTPUT SPECIMEN / 手工概念示意</text>
+<path d="M55 78 H1145" stroke="#c6ccbe"/>
+<text x="55" y="133" font-size="34">一条笔记，保留观点与出处。</text>
+<rect x="55" y="166" width="1090" height="365" rx="6" fill="#fffef9" stroke="#c6ccbe"/>
+<path d="M112 166 V531" stroke="#d9dfd2"/>
+<g fill="#849383" font-size="19" font-family="Consolas,monospace"><text x="72" y="216">01</text><text x="72" y="268">02</text><text x="72" y="320">03</text><text x="72" y="372">04</text><text x="72" y="424">05</text><text x="72" y="476">06</text></g>
+<g font-size="26"><text x="139" y="217" font-weight="600"># 间隔复习与长期记忆</text>
+<text x="139" y="269" fill="#526359">研究问题 / 复习的时间安排会改变什么？</text>
+<rect x="132" y="290" width="968" height="43" fill="#e0e8cc"/>
+<text x="139" y="320">核心笔记 / 将观点、证据和待核查问题放在一起。</text>
+<text x="139" y="372">证据定位 / [示例论文，第 3 页，讨论部分]</text>
+<text x="139" y="424">待核查 / 结论是否适用于不同任务和人群？</text>
+<text x="139" y="476" fill="#426b57">导出 / reading-note.md · 内容可继续编辑</text></g>
+<text x="55" y="567" font-size="19" fill="#526359">示例论文与文字均为虚构；此图仅说明笔记结构，不代表研究结论。</text></g></svg>
